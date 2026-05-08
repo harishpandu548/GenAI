@@ -5,7 +5,8 @@
       "Bash(Out-Null)",
       "PowerShell(New-Item *)",
       "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\pc\\\\Desktop\\\\GenAI\" -Directory)",
-      "Bash(Select-Object Name)"
+      "Bash(Select-Object Name)",
+      "PowerShell(C:\\\\Users\\\\pc\\\\Desktop\\\\GenAI\\\\.venv\\\\Scripts\\\\python.exe -m pip install langchain-chroma 2>&1)"
     ]
   }
 }
