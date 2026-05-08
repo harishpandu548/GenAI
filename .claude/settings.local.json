@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\pc\\\\Desktop\\\\GenAI\\\\MultiAIAgentSystemProject\\\\.streamlit\")",
+      "Bash(Out-Null)",
+      "PowerShell(New-Item *)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\pc\\\\Desktop\\\\GenAI\" -Directory)",
+      "Bash(Select-Object Name)"
+    ]
+  }
+}
